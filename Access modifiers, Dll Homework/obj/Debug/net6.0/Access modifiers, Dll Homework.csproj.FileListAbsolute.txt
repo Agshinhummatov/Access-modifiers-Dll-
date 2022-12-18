@@ -1,0 +1,15 @@
+C:\Users\User-BT\Desktop\Access modifiers, Dll\Access modifiers, Dll Homework\Access modifiers, Dll Homework\bin\Debug\net6.0\Access modifiers, Dll Homework.exe
+C:\Users\User-BT\Desktop\Access modifiers, Dll\Access modifiers, Dll Homework\Access modifiers, Dll Homework\bin\Debug\net6.0\Access modifiers, Dll Homework.deps.json
+C:\Users\User-BT\Desktop\Access modifiers, Dll\Access modifiers, Dll Homework\Access modifiers, Dll Homework\bin\Debug\net6.0\Access modifiers, Dll Homework.runtimeconfig.json
+C:\Users\User-BT\Desktop\Access modifiers, Dll\Access modifiers, Dll Homework\Access modifiers, Dll Homework\bin\Debug\net6.0\Access modifiers, Dll Homework.dll
+C:\Users\User-BT\Desktop\Access modifiers, Dll\Access modifiers, Dll Homework\Access modifiers, Dll Homework\bin\Debug\net6.0\Access modifiers, Dll Homework.pdb
+C:\Users\User-BT\Desktop\Access modifiers, Dll\Access modifiers, Dll Homework\Access modifiers, Dll Homework\obj\Debug\net6.0\Access modifiers, Dll Homework.csproj.AssemblyReference.cache
+C:\Users\User-BT\Desktop\Access modifiers, Dll\Access modifiers, Dll Homework\Access modifiers, Dll Homework\obj\Debug\net6.0\Access modifiers, Dll Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-BT\Desktop\Access modifiers, Dll\Access modifiers, Dll Homework\Access modifiers, Dll Homework\obj\Debug\net6.0\Access modifiers, Dll Homework.AssemblyInfoInputs.cache
+C:\Users\User-BT\Desktop\Access modifiers, Dll\Access modifiers, Dll Homework\Access modifiers, Dll Homework\obj\Debug\net6.0\Access modifiers, Dll Homework.AssemblyInfo.cs
+C:\Users\User-BT\Desktop\Access modifiers, Dll\Access modifiers, Dll Homework\Access modifiers, Dll Homework\obj\Debug\net6.0\Access modifiers, Dll Homework.csproj.CoreCompileInputs.cache
+C:\Users\User-BT\Desktop\Access modifiers, Dll\Access modifiers, Dll Homework\Access modifiers, Dll Homework\obj\Debug\net6.0\Access modifiers, Dll Homework.dll
+C:\Users\User-BT\Desktop\Access modifiers, Dll\Access modifiers, Dll Homework\Access modifiers, Dll Homework\obj\Debug\net6.0\refint\Access modifiers, Dll Homework.dll
+C:\Users\User-BT\Desktop\Access modifiers, Dll\Access modifiers, Dll Homework\Access modifiers, Dll Homework\obj\Debug\net6.0\Access modifiers, Dll Homework.pdb
+C:\Users\User-BT\Desktop\Access modifiers, Dll\Access modifiers, Dll Homework\Access modifiers, Dll Homework\obj\Debug\net6.0\Access modifiers, Dll Homework.genruntimeconfig.cache
+C:\Users\User-BT\Desktop\Access modifiers, Dll\Access modifiers, Dll Homework\Access modifiers, Dll Homework\obj\Debug\net6.0\ref\Access modifiers, Dll Homework.dll

@@ -1,0 +1,12 @@
+C:\Users\User-BT\Desktop\Access modifiers, Dll\Access modifiers, Dll Homework\Service Layer\bin\Debug\net6.0\Service Layer.deps.json
+C:\Users\User-BT\Desktop\Access modifiers, Dll\Access modifiers, Dll Homework\Service Layer\bin\Debug\net6.0\Service Layer.dll
+C:\Users\User-BT\Desktop\Access modifiers, Dll\Access modifiers, Dll Homework\Service Layer\bin\Debug\net6.0\Service Layer.pdb
+C:\Users\User-BT\Desktop\Access modifiers, Dll\Access modifiers, Dll Homework\Service Layer\obj\Debug\net6.0\Service Layer.csproj.AssemblyReference.cache
+C:\Users\User-BT\Desktop\Access modifiers, Dll\Access modifiers, Dll Homework\Service Layer\obj\Debug\net6.0\Service Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-BT\Desktop\Access modifiers, Dll\Access modifiers, Dll Homework\Service Layer\obj\Debug\net6.0\Service Layer.AssemblyInfoInputs.cache
+C:\Users\User-BT\Desktop\Access modifiers, Dll\Access modifiers, Dll Homework\Service Layer\obj\Debug\net6.0\Service Layer.AssemblyInfo.cs
+C:\Users\User-BT\Desktop\Access modifiers, Dll\Access modifiers, Dll Homework\Service Layer\obj\Debug\net6.0\Service Layer.csproj.CoreCompileInputs.cache
+C:\Users\User-BT\Desktop\Access modifiers, Dll\Access modifiers, Dll Homework\Service Layer\obj\Debug\net6.0\Service Layer.dll
+C:\Users\User-BT\Desktop\Access modifiers, Dll\Access modifiers, Dll Homework\Service Layer\obj\Debug\net6.0\refint\Service Layer.dll
+C:\Users\User-BT\Desktop\Access modifiers, Dll\Access modifiers, Dll Homework\Service Layer\obj\Debug\net6.0\Service Layer.pdb
+C:\Users\User-BT\Desktop\Access modifiers, Dll\Access modifiers, Dll Homework\Service Layer\obj\Debug\net6.0\ref\Service Layer.dll
